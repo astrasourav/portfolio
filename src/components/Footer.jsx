@@ -3,7 +3,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer id="contact" className="bg-gray-800 py-6 text-center">
+    <footer id="contact" className=" py-6 text-center">
       <p>Contact me at <a href="mailto:souravkumarr77@gmail.com" className="text-yellow-400">souravkumarr77@gmail.com</a></p>
       <div className="flex justify-center space-x-6 mt-4">
         <a href="https://www.linkedin.com/in/sourav-kumar-30141b174/" target="_blank" className="hover:text-yellow-400">LinkedIn</a>

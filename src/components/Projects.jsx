@@ -2,7 +2,7 @@ import React from 'react';
 
 const Projects = () => {
   return (
-    <section id="projects" className="py-20 px-8">
+    <section id="projects" className="bg-gray-800 py-20 px-8">
       <h2 className="text-4xl font-bold text-center mb-10">Projects</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
         {/* Plant Disease Detection */}
